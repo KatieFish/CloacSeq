@@ -1,0 +1,94 @@
+Sample.ID	Sp	Common.name	Band	Date.ddmmyyyy.	Season	days_post_mean_arrival	Days.after.arrival
+tube_ID_2_COYE	COYE	Common Yellowthroat	287046648	4052024	Spring	0	0-10
+tube_ID_18_COYE	COYE	Common Yellowthroat	287046688	4052024	Spring	0	0-10
+tube_ID_11_COYE	COYE	Common Yellowthroat	287046623	4052024	Spring	0	0-10
+tube_ID_54_VEER	VEER	Veery	247124918	13052024	Spring	5	0-10
+tube_ID_63_BOBO	BOBO	Bobolink	292184883	17052024	Spring	7	0-10
+tube_ID_62_BOBO	BOBO	Bobolink	292184882	17052024	Spring	7	0-10
+tube_ID_61_BOBO	BOBO	Bobolink	292184881	17052024	Spring	7	0-10
+tube_ID_84_AMRE	AMRE	American Redstart	297078431	19052024	Spring	9	0-10
+tube_ID_66_AMRE	AMRE	American Redstart	297078430	19052024	Spring	9	0-10
+tube_ID_59_COYE	COYE	Common Yellowthroat	301025658	13052024	Spring	9	0-10
+tube_ID_39_COYE	COYE	Common Yellowthroat	287046648	13052024	Spring	9	0-10
+tube_ID_38_COYE	COYE	Common Yellowthroat	301025653	13052024	Spring	9	0-10
+tube_ID_33_COYE	COYE	Common Yellowthroat	301025649	13052024	Spring	9	0-10
+tube_ID_32_COYE	COYE	Common Yellowthroat	301025649	13052024	Spring	9	0-10
+tube_ID_91_VEER	VEER	Veery	301170837	19052024	Spring	11	10-25
+tube_ID_82_VEER	VEER	Veery	301170835	19052024	Spring	11	10-25
+tube_ID_78_VEER	VEER	Veery	301170834	19052024	Spring	11	10-25
+tube_ID_90_COYE	COYE	Common Yellowthroat	301025666	19052024	Spring	15	10-25
+tube_ID_85_COYE	COYE	Common Yellowthroat	301025665	19052024	Spring	15	10-25
+tube_ID_73_COYE	COYE	Common Yellowthroat	301025661	19052024	Spring	15	10-25
+tube_ID_71_COYE	COYE	Common Yellowthroat	287046677	19052024	Spring	15	10-25
+tube_ID_35_HOWR	HOWR	House Wren	301025650	13052024	Spring	18	10-25
+tube_ID_96_AMRE	AMRE	American Redstart	297078440	29052024	Spring	19	10-25
+tube_ID_106_AMRE	AMRE	American Redstart	297078443	29052024	Spring	19	10-25
+tube_ID_108_BOBO	BOBO	Bobolink	292184893	31052024	Spring	21	10-25
+tube_ID_102_VEER	VEER	Veery	301170840	29052024	Spring	21	10-25
+tube_ID_81_HOWR	HOWR	House Wren	301025663	19052024	Spring	24	10-25
+tube_ID_145_AMRE	AMRE	American Redstart	297078445	3062024	Early Summer	24	10-25
+tube_ID_136_AMRE	AMRE	American Redstart	287046663	3062024	Early Summer	24	10-25
+tube_ID_101_COYE	COYE	Common Yellowthroat	301025673	29052024	Spring	25	10-25
+tube_ID_148_COYE	COYE	Common Yellowthroat	301025955	3062024	Early Summer	30	25-50
+tube_ID_140_COYE	COYE	Common Yellowthroat	301025682	3062024	Early Summer	30	25-50
+tube_ID_128_COYE	COYE	Common Yellowthroat	301025679	3062024	Early Summer	30	25-50
+tube_ID_127_COYE	COYE	Common Yellowthroat	287046673	3062024	Early Summer	30	25-50
+tube_ID_126_COYE	COYE	Common Yellowthroat	301025678	3062024	Early Summer	30	25-50
+tube_ID_125_COYE	COYE	Common Yellowthroat	301025601	3062024	Early Summer	30	25-50
+tube_ID_118_COYE	COYE	Common Yellowthroat	301025955	3062024	Early Summer	30	25-50
+tube_ID_112_COYE	COYE	Common Yellowthroat	287046700	3062024	Early Summer	30	25-50
+tube_ID_174_AMRE	AMRE	American Redstart	297078451	12062024	Early Summer	33	25-50
+tube_ID_169_AMRE	AMRE	American Redstart	297078450	12062024	Early Summer	33	25-50
+tube_ID_168_AMRE	AMRE	American Redstart	297078449	12062024	Early Summer	33	25-50
+tube_ID_167_AMRE	AMRE	American Redstart	297078448	12062024	Early Summer	33	25-50
+tube_ID_159_BOBO	BOBO	Bobolink	301170849	12062024	Early Summer	33	25-50
+tube_ID_162_VEER	VEER	Veery	301170851	12062024	Early Summer	35	25-50
+tube_ID_132_HOWR	HOWR	House Wren	301025680	3062024	Early Summer	39	25-50
+tube_ID_124_HOWR	HOWR	House Wren	301025677	3062024	Early Summer	39	25-50
+tube_ID_185_BOBO	BOBO	Bobolink	301170858	26062024	Early Summer	47	25-50
+tube_ID_210_AMRE	AMRE	American Redstart	297078455	2072024	Early Summer	53	50-75
+tube_ID_191_AMRE	AMRE	American Redstart	297078454	2072024	Early Summer	53	50-75
+tube_ID_211_VEER	VEER	Veery	301170872	2072024	Early Summer	55	50-75
+tube_ID_217_BOBO	BOBO	Bobolink	301170874	8072024	Early Summer	59	50-75
+tube_ID_216_BOBO	BOBO	Bobolink	301170873	8072024	Early Summer	59	50-75
+tube_ID_194_COYE	COYE	Common Yellowthroat	301025714	2072024	Early Summer	59	50-75
+tube_ID_193_COYE	COYE	Common Yellowthroat	301025715	2072024	Early Summer	59	50-75
+tube_ID_192_COYE	COYE	Common Yellowthroat	301025713	2072024	Early Summer	59	50-75
+tube_ID_195_HOWR	HOWR	House Wren	301025716	2072024	Early Summer	68	50-75
+tube_ID_188_HOWR	HOWR	House Wren	301025711	2072024	Early Summer	68	50-75
+tube_ID_230_AMRE	AMRE	American Redstart	297078457	18072024	Late Summer	69	50-75
+tube_ID_227_AMRE	AMRE	American Redstart	297078456	18072024	Late Summer	69	50-75
+tube_ID_241_AMRE	AMRE	American Redstart	297078459	26072024	Late Summer	77	>75
+tube_ID_236_AMRE	AMRE	American Redstart	297078458	26072024	Late Summer	77	>75
+tube_ID_233_VEER	VEER	Veery	301170884	26072024	Late Summer	79	>75
+tube_ID_184_AGOL	AGOL	American Goldfinch	297078453	25062024	Early Summer	83	>75
+tube_ID_254_AMRE	AMRE	American Redstart	297078465	2082024	Late Summer	84	>75
+tube_ID_250_AMRE	AMRE	American Redstart	297078463	2082024	Late Summer	84	>75
+tube_ID_229_HOWR	HOWR	House Wren	301025733	18072024	Late Summer	84	>75
+tube_ID_228_HOWR	HOWR	House Wren	301025732	18072024	Late Summer	84	>75
+tube_ID_232_AGOL	AGOL	American Goldfinch	301025723	18072024	Late Summer	106	>75
+tube_ID_218_AGOL	AGOL	American Goldfinch	301025724	18072024	Late Summer	106	>75
+tube_ID_245_AGOL	AGOL	American Goldfinch	287046620	26072024	Late Summer	114	>75
+tube_ID_255_AGOL	AGOL	American Goldfinch	301025765	2082024	Late Summer	121	>75
+tube_ID_290_HOWR	HOWR	House Wren	301025789	15092024	Fall	143	>75
+tube_ID_93_NOCA	NOCA	Northern Cardinal	293103741	19052024	Spring	NA	Resident
+tube_ID_6_BCCH	BCCH	Black-capped Chickadee	301025629	4052024	Spring	NA	Resident
+tube_ID_5_BCCH	BCCH	Black-capped Chickadee	301025645	4052024	Spring	NA	Resident
+tube_ID_46_NOCA	NOCA	Northern Cardinal	293103744	13052024	Spring	NA	Resident
+tube_ID_292_BCCH	BCCH	Black-capped Chickadee	301025790	22092024	Fall	NA	Resident
+tube_ID_270_BCCH	BCCH	Black-capped Chickadee	301025873	NA	Fall	NA	Resident
+tube_ID_253_DOWO	DOWO	Downy Woodpecker	301170889	2082024	Late Summer	NA	Resident
+tube_ID_243_HAWO	HAWO	Hairy Woodpecker	284152703	26072024	Late Summer	NA	Resident
+tube_ID_237_NOCA	NOCA	Northern Cardinal	293103725	26072024	Late Summer	NA	Resident
+tube_ID_225_DOWO	DOWO	Downy Woodpecker	301170879	18072024	Late Summer	NA	Resident
+tube_ID_215_HAWO	HAWO	Hairy Woodpecker	284152703	2072024	Early Summer	NA	Resident
+tube_ID_212_BCCH	BCCH	Black-capped Chickadee	301025722	2072024	Early Summer	NA	Resident
+tube_ID_196_DOWO	DOWO	Downy Woodpecker	301170862	2072024	Early Summer	NA	Resident
+tube_ID_163_BCCH	BCCH	Black-capped Chickadee	301025695	12062024	Early Summer	NA	Resident
+tube_ID_157_NOCA	NOCA	Northern Cardinal	293103732	12062024	Early Summer	NA	Resident
+tube_ID_15_BCCH	BCCH	Black-capped Chickadee	301025643	4052024	Spring	NA	Resident
+tube_ID_139_BCCH	BCCH	Black-capped Chickadee	301025684	3062024	Early Summer	NA	Resident
+tube_ID_131_NOCA	NOCA	Northern Cardinal	293103747	3062024	Early Summer	NA	Resident
+tube_ID_119_HAWO	HAWO	Hairy Woodpecker	284152704	3062024	Early Summer	NA	Resident
+tube_ID_109_NOCA	NOCA	Northern Cardinal	293103746	3062024	Early Summer	NA	Resident
+tube_ID_323_AGOL	AGOL	American Goldfinch	pending	NA	Fall		>75
